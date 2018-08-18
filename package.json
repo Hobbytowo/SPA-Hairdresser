@@ -1,7 +1,8 @@
 {
-  "name": "boilerplatenew",
+  "name": "SPA Hairdresser",
   "version": "1.0.0",
-  "description": "boilerplate",
+  "description": "Hairdresser Single Page Application",
+  "homepage": "https://hobbytowo.github.io/SPA-Hairdresser/",
   "main": "index.js",
   "dependencies": {
     "@babel/core": "^7.0.0-beta.46",
@@ -35,6 +36,6 @@
     "> 0.05%",
     "IE 10"
   ],
-  "author": "Weronika Kędziora",
-  "license": "ISC"
+  "author": "Weronika Kędziora <wkedziora13@gmail.com>",
+  "license": "MIT"
 }
