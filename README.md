@@ -4,11 +4,11 @@
 Here is a working live: https://hobbytowo.github.io/SPA-Hairdresser/
 
 ## Description
-Single Page Application presets hairdresser's salon (pl language).
+Single Page Website presets hairdresser's salon (pl language).
 
 ## Built with
 - HTML5
-- SCSS (RWD, flexbox, reset)
+- SASS (RWD, flexbox, reset)
 - JavaScrpit (none library or framework)
 - BEM
 - UX
