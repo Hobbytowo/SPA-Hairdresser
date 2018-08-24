@@ -34,6 +34,16 @@ Single Page Website presets hairdresser's salon (pl language).
 ### Other
 - Preloader
 
+## Setup
+
+``` bash
+# install dependencies
+$ npm install
+
+# serve with reload
+$ gulp watch
+```
+
 ## Sources
 - SVG icons from https://www.flaticon.com/
 - Images from https://unsplash.com/
